@@ -4,8 +4,8 @@
 **Business Insights 360** is an end-to-end Power BI analytics project designed to deliver a 360-degree view of business performance.  
 The project brings together **Sales, Finance, Marketing, Supply Chain, and Executive insights** into a single interactive solution, enabling **data-driven decision-making** across departments.
 
-**Live Dashboard:** 👉 [Click here](https://shorturl.at/wIj43)  
-**Video Presentation:** 👉 [Click here](https://www.linkedin.com/posts/neha-gupta-357754149_powerbi-dataanalytics-sql-activity-7373558820024991744-p9Df?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPiVfMBJENnTusDWDdP_ZMHY4SFSUi1m8A)
+👉 **Live Dashboard:** [Click here](https://shorturl.at/wIj43)  
+👉 **Video Presentation:** [Click here](https://www.linkedin.com/posts/neha-gupta-357754149_powerbi-dataanalytics-sql-activity-7373558820024991744-p9Df?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPiVfMBJENnTusDWDdP_ZMHY4SFSUi1m8A)
 
 ---
 
