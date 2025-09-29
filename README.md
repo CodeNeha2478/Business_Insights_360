@@ -12,8 +12,8 @@ The project brings together **Sales, Finance, Marketing, Supply Chain, and Execu
 ## Finance View
 
 **Objective:**
-1. Analyze the financial health of ATLEC Hardware by exploring Profit & Loss metrics across customers, products, regions, and time periods.
-2. Identify trends, seasonal patterns, and profitability challenges to support data-driven business decisions.
+1. To analyze the financial health of ATLEC Hardware by exploring Profit & Loss metrics across customers, products, regions, and time periods.
+2. To identify trends, seasonal patterns, and profitability challenges to support data-driven business decisions.
 
 **Key Achievements:**
 - Highlighted **Net Sales growth of 140% in 2020** compared to benchmarks, while identifying areas of concern like **Gross Margin drop (-10%)** and **Net Profit decline (-0.85%)**.
@@ -24,8 +24,8 @@ The project brings together **Sales, Finance, Marketing, Supply Chain, and Execu
 ## Sales View
 
 **Objective:**
-1. Analyze customer and product segment performance using key KPIs like **Net Sales, Gross Margin, and Gross Margin Percentage**.
-2. Identify high-performing and underperforming regions/customers to optimize sales strategies and profitability.
+1. To analyze customer and product segment performance using key KPIs like **Net Sales, Gross Margin, and Gross Margin Percentage**.
+2. To identify high-performing and underperforming regions/customers to optimize sales strategies and profitability.
 
 **Key Achievements:**
 - Highlighted top-performing regions (e.g., France) and underperforming markets (e.g., Portugal) using a dynamic performance matrix and slicers.
@@ -36,8 +36,8 @@ The project brings together **Sales, Finance, Marketing, Supply Chain, and Execu
 ## Marketing View
 
 **Objective:**
-1. Analyze product performance across key metrics like **Net Sales, Gross Margin, and Net Profit %**.
-2. Identify areas where strong sales are not translating into profits, highlighting operational or regional inefficiencies.
+1. To analyze product performance across key metrics like **Net Sales, Gross Margin, and Net Profit %**.
+2. To identify areas where strong sales are not translating into profits, highlighting operational or regional inefficiencies.
 
 **Key Achievements:**
 - Discovered that although Notebook leads in Net Sales (~$14.91M), it shows a **negative Net Profit % (-4.51%)**, indicating hidden operational costs.
@@ -48,8 +48,8 @@ The project brings together **Sales, Finance, Marketing, Supply Chain, and Execu
 ## Supply Chain View
 
 **Objective:**
-1. Monitor and analyze **demand forecasting accuracy** to identify gaps between forecasted and actual supply.
-2. Enable smarter inventory planning and flexible production strategies to meet real demand without overstocking.
+1. To monitor and analyze **demand forecasting accuracy** to identify gaps between forecasted and actual supply.
+2. To enable smarter inventory planning and flexible production strategies to meet real demand without overstocking.
 
 **Key Achievements:**
 - Identified high net errors in specific products (e.g., Keyboards) and key partners (e.g., Amazon) driving unexpected sales.
@@ -60,8 +60,8 @@ The project brings together **Sales, Finance, Marketing, Supply Chain, and Execu
 ## Executive View
 
 **Objective:**
-1. Provide C-level executives with a quick strategic overview of **revenue, profit, market share, and key operational metrics** across regions and channels.
-2. Enable data-driven decision-making by highlighting underperforming areas, stock risks, and growth opportunities without overwhelming detail.
+1. To provide C-level executives with a quick strategic overview of **revenue, profit, market share, and key operational metrics** across regions and channels.
+2. To enable data-driven decision-making by highlighting underperforming areas, stock risks, and growth opportunities without overwhelming detail.
 
 **Key Achievements:**
 - Identified top-performing sales channels and regions, with North America and India contributing ~52.7% of total revenue.
